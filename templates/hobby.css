@@ -7,7 +7,7 @@
 .inner-header{
     display: table;
     width: 100%;
-    margin-left: 20px;
+    margin-left: 25px;
     }
 
 
@@ -47,7 +47,6 @@
     background-color: #567878;
     float: left;
     height: 100%
-
 }
 
 .head-text{
@@ -78,5 +77,14 @@
 .hr-line{
     margin-left: 40px;
     margin-right: 40px;
+}
+
+.contacts{
+    font-size: 40px;
+    font-family: arial, sans-serif;
+    font-style: oblique;
+    color: blue;
+    width: 100%;
+    margin-left: 40px;
 
 }
